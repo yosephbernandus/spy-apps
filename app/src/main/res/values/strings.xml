@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Spy Apps</string>
+    <string name="notification_listener_service">Notification Listener Service</string>
+    <string name="notification_listener_service_explanation">For the app. to work you need to enable notification listener service. Enable it ?</string>
+    <string name="no">No</string>
+    <string name="yes">Yes</string>
+</resources>
